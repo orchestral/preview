@@ -1,5 +1,5 @@
 <p>
-	This code is made available from <code>{{ Bundle::path('preview') }}</code>:
+	This code is made available from <code>{{ Bundle::path('preview') }}pane/orchestra.php</code>:
 </p>
 <pre>
 Event::listen('orchestra.started: backend', function ()
