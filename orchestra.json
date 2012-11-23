@@ -1,0 +1,8 @@
+{
+	"name"        : "Orchestra Platform Preview",
+	"description" : "Preview Orchestra Platform Functionality",
+	"author"      : "Mior Muhammad Zaki",
+	"url"         : "http://github.com/orchestral/preview",
+	"version"     : "0.1.0",
+	"config"      : {}
+}
